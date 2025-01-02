@@ -59,7 +59,7 @@ This repository contains my personalized NeoVim configuration files, structured 
 3. Restart NeoVim to apply the configuration.
 
 ## Requirements
-- **NeoVim**: Version 0.7 or higher.
+- **NeoVim**: Version 0.11 or higher.
 - **Git**: For cloning the repository.
 - **Node.js**: For plugins requiring Node.js support.
 - **Python**: Ensure Python is installed for plugin dependencies.
